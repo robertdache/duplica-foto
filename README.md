@@ -4,6 +4,6 @@ piccolo script in C che prende in input una tua foto e ti crea 10 copie (numero 
 di base l'estensione è jpg. anche quella facilmente modificabile
 
 ```bash
-gcc tantefoto.c -o foto
+gcc tanteFoto.c -o foto
 ./foto nomeFile.jpg
 ```
